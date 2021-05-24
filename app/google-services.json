@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "100572888406",
+    "firebase_url": "https://covid19-sympton-recorder-default-rtdb.firebaseio.com",
+    "project_id": "covid19-sympton-recorder",
+    "storage_bucket": "covid19-sympton-recorder.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:100572888406:android:3be664e664c8374d4faaf7",
+        "android_client_info": {
+          "package_name": "com.example.covid19symptonrecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "100572888406-lujgl7d03q59a3otjl3273t7c612mrku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_IO1tk3KV39Xd4ioPACtoFfg9NnZ6v-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "100572888406-lujgl7d03q59a3otjl3273t7c612mrku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
